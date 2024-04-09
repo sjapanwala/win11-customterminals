@@ -13,6 +13,7 @@
 
 
 #### GruvBox Dark
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/eb396b4e-52be-4202-afaa-bdb7b900bcfa" alt="gruvboxdark" width="200"/>
 ![gruvboxdark](https://github.com/sjapanwala/win11-customterminals/assets/92124191/eb396b4e-52be-4202-afaa-bdb7b900bcfa)
 
 #### GruvBox Light
