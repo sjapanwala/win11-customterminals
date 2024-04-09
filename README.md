@@ -1,4 +1,6 @@
 # Custom Terminal Themes For Windows 11
+<h1 align="center">
+<img src="https://img.shields.io/badge/OS-Windows_11-blue">
 
 ### How To Install
 1) Copy paste the JSON code into terminal settings
