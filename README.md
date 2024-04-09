@@ -6,11 +6,11 @@
 2) Install the scrit to automate it
 
 ## Index
-1. [GruvBox Dark](#gruvbox-dark)
-2. [GruvBox Light](#gruvbox-light)
-3. [Catpuccin Macchiato](#catpuccin-macchiato)
-4. [Catpuccin Latte](#catpuccin-latte)
-5. [ACI](#aci)
+1. [ACI](#aci)
+2. [Catpuccin Macchiato](#catpuccin-macchiato)
+3. [Catpuccin Latte](#catpuccin-latte)
+4. [GruvBox Dark](#gruvbox-dark)
+5. [GruvBox Light](#gruvbox-light)
 
 
 
