@@ -9,6 +9,7 @@
 1. [GruvBox Dark](#gruvbox-dark)
 2. [GruvBox Light](#gruvbox-light)
 3. [Catpuccin Macchiato](#catpuccin-macchiato)
+4. [ACI](#aci)
 
 
 
