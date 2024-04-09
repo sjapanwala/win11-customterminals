@@ -24,3 +24,8 @@
 
 
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/49e4dfba-a06a-4e27-8e7b-e094dfb502a4" alt="catpuccin" width="400"/>
+
+### [ACI](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin.json)
+
+
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/49e4dfba-a06a-4e27-8e7b-e094dfb502a4" alt="catpuccin" width="400"/>
