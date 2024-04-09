@@ -22,12 +22,12 @@
 
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/0e1ffb05-1430-4233-bb19-0ddde4ed05ae" alt="gruvboxlight" width="400"/>
 
-### [Catpuccin Macchiato](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin.json)
+### [Catpuccin Macchiato](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json)
 
 
 <img src="https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json" alt="catpuccin" width="400"/>
 
-### [Catpuccin Latte](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json)
+### [Catpuccin Latte](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_latte.json)
 
 
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/9ad6d071-fac4-4dbf-bcdc-35b6ab23cad9" alt="catpuccin" width="400"/>
