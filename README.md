@@ -28,5 +28,6 @@
 ### [ACI](https://github.com/sjapanwala/win11-customterminals/tree/main/json)
 
 
-<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/d2394b85-4be6-450f-a2a9-86b9467871ab"/>
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/d2394b85-4be6-450f-a2a9-86b9467871ab" alt="catpuccin" width="400"/>
+/>
 
