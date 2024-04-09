@@ -25,12 +25,13 @@
 ### [Catpuccin Macchiato](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json)
 
 
-<img src="https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json" alt="catpuccin" width="400"/>
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/47104dcd-3b19-449f-8b03-c6f516522afe" alt="catpuccin" width="400"/>
 
 ### [Catpuccin Latte](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_latte.json)
 
 
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/9ad6d071-fac4-4dbf-bcdc-35b6ab23cad9" alt="catpuccin" width="400"/>
+
 
 ### [ACI](https://github.com/sjapanwala/win11-customterminals/tree/main/json)
 
