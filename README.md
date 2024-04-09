@@ -9,7 +9,8 @@
 1. [GruvBox Dark](#gruvbox-dark)
 2. [GruvBox Light](#gruvbox-light)
 3. [Catpuccin Macchiato](#catpuccin-macchiato)
-4. [ACI](#aci)
+4. [Catpuccin Latte](#catpuccin-latte)
+5. [ACI](#aci)
 
 
 
@@ -24,9 +25,15 @@
 ### [Catpuccin Macchiato](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin.json)
 
 
-<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/49e4dfba-a06a-4e27-8e7b-e094dfb502a4" alt="catpuccin" width="400"/>
+<img src="https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json" alt="catpuccin" width="400"/>
+
+### [Catpuccin Latte](https://github.com/sjapanwala/win11-customterminals/blob/main/json/catpuccin_macchiato.json)
+
+
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/9ad6d071-fac4-4dbf-bcdc-35b6ab23cad9" alt="catpuccin" width="400"/>
 
 ### [ACI](https://github.com/sjapanwala/win11-customterminals/tree/main/json)
+
 
 
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/d2394b85-4be6-450f-a2a9-86b9467871ab" alt="catpuccin" width="400"/>
