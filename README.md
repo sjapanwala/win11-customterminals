@@ -13,10 +13,12 @@
 
 
 #### GruvBox Dark
+<h1 align="center">
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/eb396b4e-52be-4202-afaa-bdb7b900bcfa" alt="gruvboxdark" width="300"/>
 
 #### GruvBox Light
-<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/0e1ffb05-1430-4233-bb19-0ddde4ed05ae" alt="gruvboxlight" width="500"/>
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/0e1ffb05-1430-4233-bb19-0ddde4ed05ae" alt="gruvboxlight" width="300"/>
 
 #### Catpuccin Macchiato
-<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/49e4dfba-a06a-4e27-8e7b-e094dfb502a4" alt="catpuccin" width="500"/>
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/49e4dfba-a06a-4e27-8e7b-e094dfb502a4" alt="catpuccin" width="300"/>
+</h1>
