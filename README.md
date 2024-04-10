@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center">
 <img src="https://img.shields.io/badge/OS-Windows_11-blue">
-<img src="https://img.shields.io/badge/Current_Themes-5-blue">
+<img src="https://img.shields.io/badge/Current_Themes-6-blue">
 </h1>
 
 ### How To Install
