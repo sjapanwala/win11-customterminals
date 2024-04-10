@@ -1,1 +1,23 @@
-
+{
+    "background": "#0A0E14.",
+    "black": "#4D5566",
+    "blue": "#59C2FF",
+    "brightBlack": "#0A0E14",
+    "brightBlue": "#59C2FF",
+    "brightCyan": "#95E6CB",
+    "brightGreen": "#C2D94C",
+    "brightPurple": "#FFEE99",
+    "brightRed": "#FF3333",
+    "brightWhite": "#B3B1AD",
+    "brightYellow": "#FF8F40",
+    "cursorColor": "#B3B1AD.",
+    "cyan": "#95E6CB",
+    "foreground": "",
+    "green": "#C2D94C",
+    "name": "Ayu Dark",
+    "purple": "#FFEE99",
+    "red": "#FF3333",
+    "selectionBackground": "#363636",
+    "white": "#B3B1AD",
+    "yellow": "#FF8F40"
+    }
