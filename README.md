@@ -11,7 +11,7 @@
 
 ## Index
 1. [ACI](#aci)
-2. [Ayu Dark](#Ayu_Dark)
+2. [Ayu Dark](#ayu_dark)
 3. [Catpuccin Macchiato](#catpuccin-macchiato)
 4. [Catpuccin Latte](#catpuccin-latte)
 5. [GruvBox Dark](#gruvbox-dark)
