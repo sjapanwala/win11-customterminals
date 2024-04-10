@@ -1,4 +1,6 @@
-# Custom Terminal Themes For Windows 11
+<h1 align="center">
+  <p>Custom Terminal Themes For Windows 11</p>
+</h1>
 <h1 align="center">
 <img src="https://img.shields.io/badge/OS-Windows_11-blue">
 <img src="https://img.shields.io/badge/Current_Themes-5-blue">
