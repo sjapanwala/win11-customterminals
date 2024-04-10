@@ -11,10 +11,11 @@
 
 ## Index
 1. [ACI](#aci)
-2. [Catpuccin Macchiato](#catpuccin-macchiato)
-3. [Catpuccin Latte](#catpuccin-latte)
-4. [GruvBox Dark](#gruvbox-dark)
-5. [GruvBox Light](#gruvbox-light)
+2. [Ayu Dark](#Ayu_Dark)
+3. [Catpuccin Macchiato](#catpuccin-macchiato)
+4. [Catpuccin Latte](#catpuccin-latte)
+5. [GruvBox Dark](#gruvbox-dark)
+6. [GruvBox Light](#gruvbox-light)
 
 
 <!-- start listing -->
@@ -33,3 +34,5 @@
 ### [ACI](https://github.com/sjapanwala/win11-customterminals/tree/main/json)
 <img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/d2394b85-4be6-450f-a2a9-86b9467871ab" alt="catpuccin" width="400"/>
 
+### [Ayu Dark](https://github.com/sjapanwala/win11-customterminals/blob/main/json/ayu_dark.json)
+<img src="https://github.com/sjapanwala/win11-customterminals/assets/92124191/0355d5d7-0cad-488e-805d-f1d5cb499cf7" alt="Ayu Dark" width="400"/>
